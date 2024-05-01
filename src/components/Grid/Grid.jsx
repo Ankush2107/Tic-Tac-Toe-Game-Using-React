@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Card from '../Card/Card';
 import './Grid.css';
 import isWinner from '../helper/isWinner';

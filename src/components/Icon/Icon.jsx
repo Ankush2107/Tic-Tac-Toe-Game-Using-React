@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaPen, FaRegCircle, FaTimes } from "react-icons/fa";
 
 function Icon({ name }) {
